@@ -25,7 +25,6 @@ Full-stack developer crafting modern web experiences. Member of [@likhon-dev](ht
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhonsheikhcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/likhonsheikhcodes)
 
-[![Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhcodes&theme=tokyonight&hide_border=true&background=1a1b27)](https://github.com/likhonsheikhcodes)
 
 </div>
 
