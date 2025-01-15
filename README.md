@@ -50,8 +50,6 @@ I'm a passionate Full-Stack Developer dedicated to crafting modern and intuitive
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsheikhcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/likhonsheikhcodes)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhcodes&theme=tokyonight&hide_border=true&background=1a1b27)](https://github.com/likhonsheikhcodes)
-
 </div>
 
 ## 🤝 Let's Connect!
