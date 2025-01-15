@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I'm Likhon Sheikh 👋
+# Hi! I'm Likhon Sheikh👋
 
 ![Coming Soon](assets/Coming%20SoOn.png)
 
