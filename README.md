@@ -52,14 +52,6 @@ I'm a passionate Full-Stack Developer dedicated to crafting modern and intuitive
 
 </div>
 
-## 🤝 Let's Connect!
-
-- 🌐 Portfolio: [likhonsheikh.com](https://likhonsheikh.com)
-- 📧 Email: [likhonsheikhcodes@gmail.com](mailto:likhonsheikhcodes@gmail.com)
-- 💼 LinkedIn: [in/likhonsheikhcodes](https://linkedin.com/in/likhonsheikhcodes)
-- 🐦 Twitter: [@likhoncodes](https://twitter.com/likhoncodes)
-- 🦣 Mastodon: [@likhonsheikhcodes](https://mastodon.social/@likhonsheikhcodes)
-
 <div align="center">
 
 ### Let's create something amazing together! ✨
