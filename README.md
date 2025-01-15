@@ -18,9 +18,11 @@
 </div>
 
 ## 🚀 About Me
-I'm a passionate Full-Stack Developer focused on crafting modern web experiences. Currently a proud member of [@likhon-dev](https://github.com/likhon-dev), I bring ideas to life through code and creativity.
+
+I'm a passionate Full-Stack Developer dedicated to crafting modern and intuitive web experiences. As a member of [@likhon-dev](https://github.com/likhon-dev), I transform ideas into reality through code and creativity.
 
 ## 💻 Tech Stack
+
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
