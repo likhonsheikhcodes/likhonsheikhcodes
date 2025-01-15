@@ -60,7 +60,7 @@ I'm a passionate Full-Stack Developer dedicated to crafting modern and intuitive
 - 📧 Email: [likhonsheikhcodes@gmail.com](mailto:likhonsheikhcodes@gmail.com)
 - 💼 LinkedIn: [in/likhonsheikhcodes](https://linkedin.com/in/likhonsheikhcodes)
 - 🐦 Twitter: [@likhoncodes](https://twitter.com/likhoncodes)
-- 🦣 Mastodon: [@likhonsheikhcodes@mastodon.social](https://mastodon.social/@likhonsheikhcodes)
+- 🦣 Mastodon: [@likhonsheikhcodes](https://mastodon.social/@likhonsheikhcodes)
 
 <div align="center">
 
