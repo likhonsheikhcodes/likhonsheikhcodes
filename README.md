@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I'm Likhon Sheikh 👋
+# Hi! I'm Likhon Sheikh 👋
 
 ![Coming Soon](assets/Coming%20SoOn.png)
 
@@ -71,6 +71,6 @@ I'm a passionate Full-Stack Developer dedicated to crafting modern and intuitive
 
 ---
 
-<sub>Powered by ❤️ and ☕️ | Made with passion by Likhon Sheikh</sub>
+<sub>Made with passion by Likhon Sheikh ❤️</sub>
 
 </div>
