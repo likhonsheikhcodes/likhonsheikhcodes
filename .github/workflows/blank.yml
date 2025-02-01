@@ -1,0 +1,149 @@
+name: Generate Profile Animations
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Create Output Directory
+        run: mkdir -p dist
+
+      # Generate Snake Animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
+            dist/github-snake-grid.svg
+            dist/ocean.gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Generate 3D Contribution Chart
+      - name: Create Settings File
+        run: |
+          echo '{
+            "type": "normal",
+            "theme": {
+              "backgroundColor": "#0d1117",
+              "lineColor": "#36BCF7",
+              "textColor": "#ffffff"
+            }
+          }' > settings.json
+
+      - name: Generate 3D Contribution Chart
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          settings_path: settings.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_LOADING: 20
+
+      # Generate GitHub Metrics
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories
+          config_timezone: Asia/Dhaka
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: B
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_followup: yes
+          plugin_lines: yes
+          plugin_traffic: yes
+
+      # Verify and Optimize SVG files
+      - name: Install SVGO
+        run: npm install -g svgo
+
+      - name: Optimize SVG Files
+        run: |
+          for file in dist/*.svg; do
+            if [ -f "$file" ]; then
+              echo "Optimizing $file"
+              svgo --multipass -i "$file" -o "${file}.tmp"
+              mv "${file}.tmp" "$file"
+            fi
+          done
+
+      # Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          target-folder: profile-assets
+          branch: output
+          clean: true
+          single-commit: true
+          git-config-name: github-actions[bot]
+          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit-message: "chore: update profile animations and metrics"
+
+      # Error Notification
+      - name: Notify on Failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            try {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: 'Profile Generation Failed',
+                body: `Profile generation failed at ${new Date().toISOString()}\nWorkflow: ${context.workflow}\nRun: ${context.runId}\n\nPlease check the workflow logs for more details.`
+              });
+            } catch (error) {
+              console.log('Failed to create issue:', error);
+            }
+
+      # Cleanup
+      - name: Cleanup
+        if: always()
+        run: |
+          rm -rf dist/
+          rm -rf node_modules/
+          rm -f settings.json
