@@ -1,8 +1,48 @@
-<div align="center">
+<div align="center"><a name="readme-top"></a>
 
-# Hi! I'm Likhon Sheikh 👋
+<img height="120" src="https://i.ibb.co.com/hxHhgGqr/IMG-0635.png">
+<img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
+<img height="120" src="https://i.ibb.co.com/ynW37ZdW/G2-Esports-Red-lightmode-1.png">
 
-![Coming Soon](assets/Coming%20SoOn.png)
+<h1>Likhon Sheikh</h1>
+
+Full-stack developer skilled in React, Redux, Node, Sails, PHP, C#, ASP.NET, HTML5, CSS3, and JavaScript, building modern, scalable web applications
+
+[![][npm-release-shield]][npm-release-link]
+[![][github-releasedate-shield]][github-releasedate-link]
+[![][github-action-test-shield]][github-action-test-link]
+[![][github-action-release-shield]][github-action-release-link]<br/>
+[![][github-contributors-shield]][github-contributors-link]
+[![][github-forks-shield]][github-forks-link]
+[![][github-stars-shield]][github-stars-link]
+[![][github-issues-shield]][github-issues-link]
+[![][github-license-shield]][github-license-link]
+
+[Changelog](./CHANGELOG.md) · [Report Bug][github-issues-link] · [Request Feature][github-issues-link]
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+</div>
+
+[npm-release-shield]: https://img.shields.io/npm/v/@likhonsheikh?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[npm-release-link]: https://www.npmjs.com/package/@likhonsheikh
+[github-releasedate-shield]: https://img.shields.io/github/release-date/likhonsheikhcodes/likhonsheikhcodes?labelColor=black&style=flat-square
+[github-releasedate-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/releases
+[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/likhonsheikhcodes/likhonsheikhcodes/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-action-test-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/actions/workflows/test.yml
+[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/likhonsheikhcodes/likhonsheikhcodes/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-action-release-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/actions/workflows/release.yml
+[github-contributors-shield]: https://img.shields.io/github/contributors/likhonsheikhcodes/likhonsheikhcodes?color=c4f042&labelColor=black&style=flat-square
+[github-contributors-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/graphs/contributors
+[github-forks-shield]: https://img.shields.io/github/forks/likhonsheikhcodes/likhonsheikhcodes?color=8ae8ff&labelColor=black&style=flat-square
+[github-forks-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/network/members
+[github-stars-shield]: https://img.shields.io/github/stars/likhonsheikhcodes/likhonsheikhcodes?color=ffcb47&labelColor=black&style=flat-square
+[github-stars-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/network/stargazers
+[github-issues-shield]: https://img.shields.io/github/issues/likhonsheikhcodes/likhonsheikhcodes?color=ff80eb&labelColor=black&style=flat-square
+[github-issues-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/issues
+[github-license-shield]: https://img.shields.io/github/license/likhonsheikhcodes/likhonsheikhcodes?color=white&labelColor=black&style=flat-square
+[github-license-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/blob/main/LICENSE
+
 
 [![Website](https://img.shields.io/badge/Website-232323?style=for-the-badge&logo=google-chrome&logoColor=white)](https://likhonsheikh.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhonsheikhcodes@gmail.com)
