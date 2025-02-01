@@ -1,27 +1,31 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Likhon%20Sheikh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Digital%20Craftsman&descAlignY=51&descAlign=62)](https://github.com/likhonsheikhcodes)
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,25,27&height=200&animation=twinkling&section=header)](https://github.com/likhonsheikhcodes)
 
-<a href="https://github.com/likhonsheikhcodes">
-    <img src="https://github-stats-alpha.vercel.app/api?username=likhonsheikhcodes&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="49%" />
-</a>
-<a href="https://likhonsheikh.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=likhonsheikhcodes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&stroke=0000&ring=4C8EDA&fire=1AD7C4&currStreakNum=1AD7C4&sideNums=4C8EDA&currStreakLabel=1AD7C4&sideLabels=4C8EDA&dates=FFF" width="49%" />
-</a>
+<img width="49%" src="https://github-readme-stats-likhonsheikhcodes.vercel.app/api?username=likhonsheikhcodes&show_icons=true&bg_color=00000000&hide_border=true&rank_icon=percentile&theme=transparent" />
+<img width="49%" src="https://streak-stats.demolab.com?user=likhonsheikhcodes&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
-<a href="https://github.com/likhonsheikhcodes">
-    <img src="https://github-profile-trophy.vercel.app/?username=likhonsheikhcodes&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</a>
+[![An image of @likhonsheikhcodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/likhonsheikhcodes)](https://holopin.io/@likhonsheikhcodes)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,postgres,docker,git,vscode&perline=5" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/likhonsheikhcodes/likhonsheikhcodes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/likhonsheikhcodes/likhonsheikhcodes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/likhonsheikhcodes/likhonsheikhcodes/output/github-contribution-grid-snake.svg">
+</picture>
 
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=likhonsheikhcodes&bg_color=22272e&color=4c8eda&line=1ad7c4&point=fff&area=true&hide_border=true)](https://github.com/likhonsheikhcodes)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=likhonsheikhcodes&custom_title=&hide_border=true&theme=github-compact&bg_color=00000000&line=1a237e&point=1a237e&area=true" />
 
-<a href="https://likhonsheikh.com"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=safari&logoColor=white" /></a>
-<a href="mailto:likhonsheikhcodes@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/likhonsheikhcodes"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/likhoncodes"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+[![Metrics](https://metrics.lecoq.io/likhonsheikhcodes?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FDhaka)](https://github.com/likhonsheikhcodes)
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/likhonsheikhcodes)
+<a href="https://likhonsheikh.com"><img height="40" src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://linkedin.com/in/likhonsheikhcodes"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://twitter.com/likhoncodes"><img height="40" src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://instagram.com/likhonsheikhcodes"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://discord.gg/likhonsheikhcodes"><img height="40" src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://codepen.io/likhonsheikhcodes"><img height="40" src="https://skillicons.dev/icons?i=codepen" /></a>
+
+<img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,express,mongodb,postgres,redis,docker,kubernetes,git,aws&perline=6" />
+
+[![Footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,25,27&height=100&section=footer)](https://github.com/likhonsheikhcodes)
 
 </div>
