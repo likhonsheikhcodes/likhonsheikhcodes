@@ -102,6 +102,26 @@ I'm a passionate Full-Stack Developer dedicated to crafting modern and intuitive
 
 ---
 
-<sub>Made with passion by Likhon Sheikh ❤️</sub>
+## 🤝 Contributing
+
+Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub [Issues][github-issues-link] to get stuck in to show us what you’re made of.
+
+[![][pr-welcome-shield]][pr-welcome-link]
+
+[![][github-contrib-shield]][github-contrib-link]
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+[github-issues-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/issues
+[pr-welcome-shield]: https://img.shields.io/badge/Build%20with%20%F0%9F%8D%91-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
+[pr-welcome-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/pulls
+[github-contrib-shield]: https://contrib.rocks/image?repo=likhonsheikhcodes%2Flikhonsheikhcodes
+[github-contrib-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/graphs/contributors
+[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-black?style=flat-square
+
 
 </div>
