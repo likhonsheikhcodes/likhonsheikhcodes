@@ -1,127 +1,84 @@
-<div align="center"><a name="readme-top"></a>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Likhon+Sheikh+👋;Full-Stack+Developer;React+%2B+Node.js+Expert;Always+learning+new+things)](https://git.io/typing-svg)
 
-<img height="120" src="https://i.ibb.co.com/hxHhgGqr/IMG-0635.png">
-<img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
-<img height="120" src="https://i.ibb.co.com/ynW37ZdW/G2-Esports-Red-lightmode-1.png">
+[![Follow me on GitHub](https://img.shields.io/github/followers/likhonsheikhcodes?label=Follow&style=social)](https://github.com/likhonsheikhcodes)
+[![Twitter Follow](https://img.shields.io/twitter/follow/likhoncodes?style=social)](https://twitter.com/likhoncodes)
 
-<h1>Likhon Sheikh</h1>
-
-Full-stack developer skilled in React, Redux, Node, Sails, PHP, C#, ASP.NET, HTML5, CSS3, and JavaScript, building modern, scalable web applications
-
-[![][npm-release-shield]][npm-release-link]
-[![][github-releasedate-shield]][github-releasedate-link]
-[![][github-action-test-shield]][github-action-test-link]
-[![][github-action-release-shield]][github-action-release-link]<br/>
-[![][github-contributors-shield]][github-contributors-link]
-[![][github-forks-shield]][github-forks-link]
-[![][github-stars-shield]][github-stars-link]
-[![][github-issues-shield]][github-issues-link]
-[![][github-license-shield]][github-license-link]
-
-[Changelog](./CHANGELOG.md) · [Report Bug][github-issues-link] · [Request Feature][github-issues-link]
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+[<img src="https://github-metrics.vercel.app/api?username=likhonsheikh54&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=My%20GitHub%20Metrics" alt="GitHub Metrics" width="400">](https://github.com/likhonsheikh54)
 
 </div>
 
-[npm-release-shield]: https://img.shields.io/npm/v/@likhonsheikh?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[npm-release-link]: https://www.npmjs.com/package/@likhonsheikh
-[github-releasedate-shield]: https://img.shields.io/github/release-date/likhonsheikhcodes/likhonsheikhcodes?labelColor=black&style=flat-square
-[github-releasedate-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/releases
-[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/likhonsheikhcodes/likhonsheikhcodes/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-test-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/actions/workflows/test.yml
-[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/likhonsheikhcodes/likhonsheikhcodes/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-release-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/actions/workflows/release.yml
-[github-contributors-shield]: https://img.shields.io/github/contributors/likhonsheikhcodes/likhonsheikhcodes?color=c4f042&labelColor=black&style=flat-square
-[github-contributors-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/graphs/contributors
-[github-forks-shield]: https://img.shields.io/github/forks/likhonsheikhcodes/likhonsheikhcodes?color=8ae8ff&labelColor=black&style=flat-square
-[github-forks-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/network/members
-[github-stars-shield]: https://img.shields.io/github/stars/likhonsheikhcodes/likhonsheikhcodes?color=ffcb47&labelColor=black&style=flat-square
-[github-stars-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/network/stargazers
-[github-issues-shield]: https://img.shields.io/github/issues/likhonsheikhcodes/likhonsheikhcodes?color=ff80eb&labelColor=black&style=flat-square
-[github-issues-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/issues
-[github-license-shield]: https://img.shields.io/github/license/likhonsheikhcodes/likhonsheikhcodes?color=white&labelColor=black&style=flat-square
-[github-license-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/blob/main/LICENSE
+## 🚀 Quick Overview
 
-
-[![Website](https://img.shields.io/badge/Website-232323?style=for-the-badge&logo=google-chrome&logoColor=white)](https://likhonsheikh.com)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhonsheikhcodes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhonsheikhcodes)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/likhoncodes)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@likhonsheikhcodes)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/likhonsheikh)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/likhonsheikhcodes)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/likhonsheikhcodes)
-
-![Coding Animation](assets/IMG_5261.gif)
-
-</div>
-
-## 🚀 About Me
-
-I'm a passionate Full-Stack Developer dedicated to crafting modern and intuitive web experiences. As a member of [@likhon-dev](https://github.com/likhon-dev), I transform ideas into reality through code and creativity.
+```typescript
+const likhon = {
+    pronouns: "he" | "him",
+    code: ["TypeScript", "JavaScript", "React", "Node.js", "PHP", "C#"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Redux"],
+            css: ["TailwindCSS", "Material-UI", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express", "SailsJS"],
+            csharp: ["ASP.NET Core", "Entity Framework"],
+            php: ["Laravel", "CodeIgniter"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps: ["Docker", "Nginx", "GitHub Actions"]
+    },
+    currentFocus: "Building scalable full-stack applications"
+};
+```
 
 ## 💻 Tech Stack
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+| Category | Technologies |
+|----------|-------------|
+| Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| Backend | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
+| Database | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhonsheikhcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/likhonsheikhcodes)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=likhonsheikhcodes&theme=tokyonight&hide_border=true)](https://github.com/likhonsheikhcodes)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsheikhcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/likhonsheikhcodes)
+<img src="https://github-profile-trophy.vercel.app/?username=likhonsheikhcodes&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 
 </div>
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-### Let's create something amazing together! ✨
-
-[![GitHub Followers](https://img.shields.io/github/followers/likhonsheikhcodes?label=Follow&style=social)](https://github.com/likhonsheikhcodes)
-[![GitHub Stars](https://img.shields.io/github/stars/likhonsheikhcodes?style=social)](https://github.com/likhonsheikhcodes)
-![Coming Soon](assets/design.PNG)
-
----
-
-## 🤝 Contributing
-
-Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub [Issues][github-issues-link] to get stuck in to show us what you’re made of.
-
-[![][pr-welcome-shield]][pr-welcome-link]
-
-[![][github-contrib-shield]][github-contrib-link]
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://likhonsheikh.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhonsheikhcodes)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/likhoncodes)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhonsheikhcodes@gmail.com)
 
 </div>
 
-[github-issues-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/issues
-[pr-welcome-shield]: https://img.shields.io/badge/Build%20with%20%F0%9F%8D%91-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
-[pr-welcome-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/pulls
-[github-contrib-shield]: https://contrib.rocks/image?repo=likhonsheikhcodes%2Flikhonsheikhcodes
-[github-contrib-link]: https://github.com/likhonsheikhcodes/likhonsheikhcodes/graphs/contributors
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-black?style=flat-square
+## 📈 Activity Graph
 
+[![Likhon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=likhonsheikhcodes&theme=tokyo-night&hide_border=true)](https://github.com/likhonsheikhcodes)
+
+---
+
+<div align="center">
+
+### 🎯 Support My Work
+
+[![Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/likhonsheikh)
+
+![Profile Views](https://komarev.com/ghpvc/?username=likhonsheikhcodes&color=blueviolet&style=flat-square)
 
 </div>
