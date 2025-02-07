@@ -15,7 +15,7 @@
 
 [![Metrics](https://metrics.lecoq.io/likhonsheikhcodes?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FDhaka)](https://github.com/likhonsheikhcodes)
 
-<a href="https://likhonsheikh.com"><img height="40" src="https://skillicons.dev/icons?i=html" /></a>
+
 <a href="https://linkedin.com/in/likhonsheikhcodes"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://twitter.com/likhoncodes"><img height="40" src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://instagram.com/likhonsheikhcodes"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
