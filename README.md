@@ -2,8 +2,6 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,25,27&height=200&animation=twinkling&section=header)](https://github.com/likhonsheikhcodes)
 
-<img width="49%" src="https://github-readme-stats-likhonsheikhcodes.vercel.app/api?username=likhonsheikhcodes&show_icons=true&bg_color=00000000&hide_border=true&rank_icon=percentile&theme=transparent" />
-<img width="49%" src="https://streak-stats.demolab.com?user=likhonsheikhcodes&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 [![An image of @likhonsheikhcodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/likhonsheikhcodes)](https://holopin.io/@likhonsheikhcodes)
 
