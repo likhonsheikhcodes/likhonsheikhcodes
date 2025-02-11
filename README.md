@@ -13,8 +13,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhonsheikhcodes&custom_title=&hide_border=true&theme=github-compact&bg_color=00000000&line=1a237e&point=1a237e&area=true" />
 
-[![Metrics](https://metrics.lecoq.io/likhonsheikhcodes?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FDhaka)](https://github.com/likhonsheikhcodes)
-
 
 <a href="https://linkedin.com/in/likhonsheikhcodes"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://twitter.com/likhoncodes"><img height="40" src="https://skillicons.dev/icons?i=twitter" /></a>
