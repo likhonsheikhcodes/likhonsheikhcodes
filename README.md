@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,25,27&height=200&animation=twinkling&section=header)](https://github.com/likhonsheikhcodes)
 
 
 [![An image of @likhonsheikhcodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/likhonsheikhcodes)](https://holopin.io/@likhonsheikhcodes)
